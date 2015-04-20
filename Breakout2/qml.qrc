@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BreakOut.qml</file>
+        <file>FindDeviceMenu.qml</file>
+    </qresource>
+</RCC>
